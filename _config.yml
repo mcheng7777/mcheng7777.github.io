@@ -13,7 +13,7 @@ title                    : "Michael's Homepage"
 title_separator          : "-"
 name                     : &name "Michael Cheng"
 description              : &description "UCLA Bionformatics Ph.D. Candidate"
-url                      : https://mcheng7777.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mcheng7777.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcheng7777/mcheng7777.github.io"
 
@@ -22,13 +22,13 @@ repository               : "mcheng7777/mcheng7777.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "michaelcheng_headshot.jpeg"
   name             : "Michael Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics Machine Learning Researcher for Accelerated Biological Discovery"
   location         : "Los Angeles, CA"
-  employer         : "University of California, Los Angeles (UCLA)"
-  uri              : "https://mcheng7777.github.io/"
+  employer         : "UCLA"
+  uri              : "https://mcheng7777.github.io"
   email            : "mcheng7777@g.ucla.edu" 
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
