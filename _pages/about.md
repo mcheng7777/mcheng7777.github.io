@@ -17,11 +17,11 @@ I am a highly motivated Bioinformatics Ph.D. Candidate passionate about machine 
 
 **Database Management**: I have also applied this method to over 1300 public scRNAseq datasets and created a the first database of cell type gene regulatory networks (GRNs) across human and mouse tissues. I built this using a LAMP stack and Neo4j graph database. Feel free to explore any gene regulatory network [here](https://mergeomics.research.idre.ucla.edu/scGRNdb/).
 
-**Precision Medicine**: I have integrated gene regulatory network modeling with genetic data to genetic factors of traumatic brain injury recovery, allowing for tailored symptom prediction for brain injury patients. 
+**Precision Medicine**: I have integrated gene regulatory network modeling with genetic data to genetic factors of traumatic brain injury recovery, allowing for tailored symptom prediction for brain injury patients. These findings are submitted to *PLOS Genetics* and currently in medRxiv [[link](https://doi.org/10.1101/2025.03.11.25323465)].
 
 **Drug Target Discovery**: I have also applied network modeling to drug screen databases to identify drug-targettable genes for cancer immunotherapy resistance. I collaborated with cancer biologists to validate these findings in lung cancer cohorts. These findings are submitted to *Nature Communications* and currently in bioRxiv [[link](https://www.biorxiv.org/content/10.1101/2024.11.22.624939v1)].
 
-**Representation Learning**  I applied nonnegative matrix factorization on 24 cancer types in The Cancer Genome Atlas (TCGA) to identify latent epigenetic factors that associate with patient survival. I also trained a neural network to stratify patients into high and low survival groups. These findings are published in *Communications Biology* [(link)](https://www.nature.com/articles/s42003-023-05459-w) and featured by the *National Cancer Institute* [[link](https://datascience.cancer.gov/news-events/news/epigenetics-and-machine-learning-help-make-cancer-predictions)].
+**Representation Learning**  I applied nonnegative matrix factorization on 24 cancer types in The Cancer Genome Atlas (TCGA) to identify latent epigenetic factors that associate with patient survival. I also trained a neural network to stratify patients into high and low survival groups. These findings are published in *Communications Biology* [[link](https://www.nature.com/articles/s42003-023-05459-w)] and featured by the *National Cancer Institute* [[link](https://datascience.cancer.gov/news-events/news/epigenetics-and-machine-learning-help-make-cancer-predictions)].
 
 ## Personal AI Projects
 
